@@ -14,5 +14,15 @@ While the full code is 100% functional, it is designed to be improved and custom
 
 Currently, I am in the process of developing a similar bot in Rust, aiming to enhance and refine all functionalities to ensure a superior trading experience.
 
+СAUTION:
+Some of wallets you may want to copy trade, dont use standart transactions. You may need to adapt the code for your specific wallets. I mean, the PumpFun Buy instruction index may need to be modified/hardcoded.
+Thats why, you need to have at least a little of coding experience.
+
+If you are willing to buy the full script, Ill not be helping you manage your wallets. I will not provide any support feedback.
+Im just providing you the full script. 
+
+IF YOU WANT TO TEST:
+Yes, we can test the bot, ill record my screen and share it to you with all proofs and transactions links, we can copy your wallet or as you wish.
+
 Pricing and Contact  
 The full TypeScript code is available for 10 SOL. If you're interested, feel free to reach out to me on Telegram: @mayneman (https://t.me/mayneman).
