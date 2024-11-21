@@ -23,4 +23,4 @@ IF YOU WANT TO TEST:
 Yes, I can share my screen via telegram, and ill copy wallet you want in real time.
 
 Pricing and Contact  
-The full TypeScript code is available for 10 SOL. If you're interested, feel free to reach out to me on Telegram: @mayneman (https://t.me/mayneman).
+The full TypeScript code is available for 6 SOL. If you're interested, feel free to reach out to me on Telegram: @mayneman (https://t.me/mayneman).
